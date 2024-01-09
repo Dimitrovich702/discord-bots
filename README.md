@@ -3,9 +3,10 @@ this is a repo with some cool discord bots
 import random
 import discord
 from discord.ext import commands
-
+#
 Do 
 pip3 install discord
+#
 
 ///
 touch mybot.py
