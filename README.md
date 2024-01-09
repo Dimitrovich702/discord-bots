@@ -10,7 +10,11 @@ pip3 install discord
 
 ///
 touch mybot.py
+#
 nano mybot.py
+
 // save ur code if u at your terminal do contrl o  contrl x 
+#
 chmod +700 mybot.py
+#
 python3 mybot.py
